@@ -1,7 +1,7 @@
 # YasserHesham-D
 
 # 💫 About Me:
-🔭 I’m currently working on<br></br>Building scalable web applications using ASP.NET Core, RESTful APIs, and Entity Framework Core<br></br>👯 I’m looking to collaborate on<br></br>Open-source .NET, Web APIs, .NET projectsAdvanced system architecture, performance optimization, and cloud deployment , Docker , Clean Architecture, Cloud computing,Payment Gateways Integration,and AI integration with .NET<br></br>⚡ Fun fact<br></br>I enjoy turning complex business requirements into clean, maintainable .NET solutions 🚀 , .NET developer focused on building clean, scalable backend systems.
+🔭 I’m currently working on<br></br>Building scalable web applications <br></br>👯 I’m looking to collaborate on<br></br>Open-source APIs, projectsAdvanced system architecture, performance optimization, and cloud deployment , Docker , Clean Architecture, Cloud computing,Payment Gateways Integration,and AI integration with .NET<br></br>⚡ Fun fact<br></br>I enjoy turning complex business requirements into clean, maintainable  solutions 🚀 ,  developer focused on building clean, scalable backend systems.
 Experienced with APIs, databases , Always learning, collaborating, and turning ideas into reliable software.
 
 
